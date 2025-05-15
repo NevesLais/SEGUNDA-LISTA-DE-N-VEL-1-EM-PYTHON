@@ -16,4 +16,4 @@ elif(salario >700 and salario <=1500):
 
 elif(salario >1500):
      percentualAumento = 5
-     aumento = (salario * percentualAumento) / 100ento)
+     aumento = (salario * percentualAumento) / 100
