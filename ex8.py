@@ -8,7 +8,3 @@ if usuario == "admin" and senha == "123":
 else:
     if usuario != "admin" and senha != "123":
         print("Usuário e senha incorretos.")
-    elif usuario != "admin":
-        print("Usuário incorreto.")
-    elif senha != "123":
-        print("Senha incorreta.")
